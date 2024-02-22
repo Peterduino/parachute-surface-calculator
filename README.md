@@ -1,0 +1,1 @@
+A pretty simple Python script that calculate the surface needed for a parachute to slow down whatever you want only by enterring infos of you payload and the theoric Cx of you parachute, 1 is I think to much 'cause you never make a flat and hard parachute, so I personnly set it at 0.9.
